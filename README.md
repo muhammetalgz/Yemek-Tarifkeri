@@ -1,2 +1,4 @@
 # Yemek-Tarifkeri
- yemek tarifleri yapıldı
+
+
+HTML ve CSS kullanılarak bir yemek tarifleri sitesi oluşturuldu.
